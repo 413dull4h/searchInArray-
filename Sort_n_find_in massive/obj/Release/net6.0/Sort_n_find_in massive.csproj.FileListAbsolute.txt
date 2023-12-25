@@ -1,0 +1,15 @@
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\bin\Release\net6.0\Sort_n_find_in massive.exe
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\bin\Release\net6.0\Sort_n_find_in massive.deps.json
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\bin\Release\net6.0\Sort_n_find_in massive.runtimeconfig.json
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\bin\Release\net6.0\Sort_n_find_in massive.dll
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\bin\Release\net6.0\Sort_n_find_in massive.pdb
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.csproj.AssemblyReference.cache
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.AssemblyInfoInputs.cache
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.AssemblyInfo.cs
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.csproj.CoreCompileInputs.cache
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.dll
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\refint\Sort_n_find_in massive.dll
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.pdb
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\Sort_n_find_in massive.genruntimeconfig.cache
+C:\Users\Gojou_Satoru\YandexDisk\Практика (Кошелев-Белышева)\2 Курс\ЯиМП\Кошелев\Sort_n_find_in massive\Sort_n_find_in massive\obj\Release\net6.0\ref\Sort_n_find_in massive.dll

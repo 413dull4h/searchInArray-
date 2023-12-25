@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{076F7170-C351-413F-B0F0-362E8FFA7FE7}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sort_n_find_in massive/Program.cs">
+    <Files>
+      <File FileName="Sort_n_find_in massive/Classes.cs" Line="187" Column="2" />
+      <File FileName="Sort_n_find_in massive/Program.cs" Line="613" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sort_n_find_in massive" expanded="True">
+            <Node name="Sort_n_find_in massive" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sort__n__find__in_220massive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
